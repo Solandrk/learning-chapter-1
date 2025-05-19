@@ -52,7 +52,7 @@ export default {
 
 				// Call Telegram API to set webhook
 				const response = await fetch(telegramApiUrl);
-				const result = await response.json();
+				const result:any = await response.json();
 
 				if (result.ok) {
 					return new Response('Webhook set successfully', { status: 200 });
