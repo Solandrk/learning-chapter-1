@@ -5,6 +5,13 @@
 	"ai": {
 		"binding": "AI"
 	},
+	"kv_namespaces": [
+		{
+			"binding": "KV_GPTYAR_CONVERSATIONS",
+			"id": "f805d72443f544a59ed266bc2f310235"
+		}
+	],
+
 	"env": {
 		"production": {
 			"vars": {
