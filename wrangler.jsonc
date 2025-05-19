@@ -1,6 +1,6 @@
 {
 	"name": "learning-ai-bot",
-	"main": "worker.ts",
+	"main": "src/worker.ts",
 	"compatibility_date": "2025-05-19",
 	"ai": {
 		"binding": "AI"
