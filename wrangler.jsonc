@@ -1,5 +1,5 @@
 {
-	"name": "telegram-bot-worker",
+	"name": "learning-ai-bot",
 	"main": "worker.ts",
 	"compatibility_date": "2025-05-19",
 	"ai": {
@@ -8,7 +8,7 @@
 	"env": {
 		"production": {
 			"vars": {
-				"TELEGRAM_BOT_TOKEN": "your-telegram-bot-token-here" // Replace with actual token or manage via Cloudflare dashboard
+				"TELEGRAM_BOT_TOKEN": "7936158713:AAHZFhIN3MS4D_y1tbmHNa9rgB7lg6stlpA" // Replace with actual token or manage via Cloudflare dashboard
 			}
 		}
 	}
